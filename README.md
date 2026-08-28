@@ -1,7 +1,7 @@
 # Taller Scratch 2026
 Repositorio con material para el curso de Scratch para profesores de enseñanda media realizado en la Universidad Católica del Maule a partir del 28 de agosto 2026.
 # Apunte:
-- Semanas 1 y 2: 
+- Semanas 1 y 2: [https://github.com/DAMM16/taller_scratch_2026/blob/main/scratch-note.pdf](https://github.com/DAMM16/taller_scratch_2026/blob/main/scratch-note.pdf)
 
 
 # Proyecto de ejemplo:
